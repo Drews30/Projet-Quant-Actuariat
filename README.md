@@ -31,5 +31,6 @@ A faire :
   *  Modelisation : Entrainer un algo (a determiner) pour prédire le Yield futur a partir des features selectionnées.
     
   *  Évaluation : Évaluer la précision de tes prédictions avec des métriques de Data Science (a determiner).
-                       But : Traduire les erreurs en vrais dollars, injecter dans un portefeuille contenant plusieurs                                    obligations (différentes échéances, différents coupons) pour calculer l'impact total en                                     dollars.
+    
+     -But : Traduire les erreurs en vrais dollars, injecter dans un portefeuille contenant plusieurs                                    obligations (différentes échéances, différents coupons) pour calculer l'impact total en                                     dollars.
 
